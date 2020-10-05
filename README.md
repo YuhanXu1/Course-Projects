@@ -3,3 +3,8 @@
 ### [Recommendations for Players of Player Unknown’s Battlegrounds - Big Data and Cloud Computing](/Big_Data_Final_Report.pdf)
 ### [New Product for LAY’s Chips - Marketing Research](/Marketing_Research_Final_Presentation.pdf)
 ### [Amazon Review Analysis - Text Mining](/Text_Mining_Final_Project)
+### [Customer Analytics Projects](/Customer_Analytics_Projects)
+- [BookBinders Book Club - R basics](/Customer_Analytics_Projects/BookBinders_Book_Club_R_basics.pdf)
+- [Home Alarm - Assessing Customer Lifetime Value](/Customer_Analytics_Projects/Home_Alarm_LTV.pdf)
+- [Tuango - RFM Analysis](/Customer_Analytics_Projects/Tuango_RFM.pdf)
+- [BookBinders - Predicting Response with Logistic Regression](/Customer_Analytics_Projects/BookBinders_Predicting_Response_with_Logistic_Regression.pdf)
