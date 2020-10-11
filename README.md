@@ -8,3 +8,5 @@
 - [Home Alarm - Assessing Customer Lifetime Value](/Customer_Analytics_Projects/Home_Alarm_LTV.pdf)
 - [Tuango - RFM Analysis](/Customer_Analytics_Projects/Tuango_RFM.pdf)
 - [BookBinders - Predicting Response with Logistic Regression](/Customer_Analytics_Projects/BookBinders_Predicting_Response_with_Logistic_Regression.pdf)
+- [Pentathlon - Next Product To Buy Modeling](/Customer_Analytics_Projects/Pentathlon_Next_Product_To_Buy.pdf)
+- [S-Mobile - Predicting Customer Churn](/Customer_Analytics_Projects/S-Mobile_Predicting_Customer_Churn.pdf)
